@@ -12,12 +12,12 @@ the version supplied here is running on 64 bit PCs (amd64).
 
 # compilation
 
-simply enter: make\\
+simply enter: make\
 this generates the program "proxman"
 
 # usage
 
-1) start the daemon by entering ./proxman\\
-2) load the file proxman.html with a web-browser
+1) start the daemon by entering ./proxman\
+2) load the file proxman.html with a web-browser\
 3) click on a VM to open (or start+open) it in remote-viewer
 
