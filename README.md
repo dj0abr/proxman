@@ -4,8 +4,11 @@ Proxmox Manager, starting VMs and Remote-Viewer with only ONE mouse click, for L
 # 3rd party program required
 cv4pve-pepper must be copied into this directory. Use the version that fits to your computer (amd64, ARM...)\
 this program is available here: \
-https://github.com/Corsinvest/cv4pve-pepper/releases\
+https://github.com/Corsinvest/cv4pve-pepper/releases
+
 the version supplied here is running on 64 bit PCs (amd64).
+
+remote-viewer, which is included in the package virt-viewer which can be installed using apt.
 
 # compilation
 
