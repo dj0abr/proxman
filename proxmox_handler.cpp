@@ -8,10 +8,10 @@ void sendVMlist();
 extern int wsconnected;
 
 // =========================================
-#define NODE_IP     "192.168.10.90"
-#define NODE_NAME   "proxmoxnuc"
-#define USER_NAME   "root@pam"
-#define USER_PASS   "mypassword"
+#define NODE_IP     "192.168.10.90" // IP of the PC running proxmox
+#define NODE_NAME   "proxmoxnuc"    // name of the proxmox node (i.e.:  pve)
+#define USER_NAME   "root@pam"      // default root user, or any other user
+#define USER_PASS   "mypassword"    // password of above user
 #define NODE_PORT   8006
 #define PROXY_PORT  3128
 // =========================================
